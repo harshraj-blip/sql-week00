@@ -1,0 +1,11 @@
+campaign_name,promo_type,event_count,total_before,total_after,quantity_change
+Diwali,"500 Cashback",50,16791,50769,33978
+Diwali,BOGOF,200,10024,34461,24437
+Diwali,"33% OFF",100,29152,43117,13965
+Diwali,"50% OFF",200,16843,22074,5231
+Diwali,"25% OFF",200,37509,32983,-4526
+Sankranti,BOGOF,300,48156,180792,132636
+Sankranti,"33% OFF",100,34169,47459,13290
+Sankranti,"500 Cashback",50,5508,12411,6903
+Sankranti,"50% OFF",100,4400,6100,1700
+Sankranti,"25% OFF",200,6498,5307,-1191

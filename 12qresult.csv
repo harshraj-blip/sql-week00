@@ -1,0 +1,51 @@
+city,category,total_quantity_after
+Bengaluru,"Grocery & Staples",59431
+Bengaluru,Combo1,15250
+Bengaluru,"Home Appliances",12909
+Bengaluru,"Home Care",10006
+Bengaluru,"Personal Care",7545
+Chennai,"Grocery & Staples",46639
+Chennai,Combo1,12081
+Chennai,"Home Appliances",10686
+Chennai,"Home Care",7974
+Chennai,"Personal Care",5893
+Coimbatore,"Grocery & Staples",22735
+Coimbatore,Combo1,5369
+Coimbatore,"Home Appliances",4606
+Coimbatore,"Home Care",3527
+Coimbatore,"Personal Care",2663
+Hyderabad,"Grocery & Staples",39488
+Hyderabad,Combo1,9337
+Hyderabad,"Home Appliances",8466
+Hyderabad,"Home Care",6691
+Hyderabad,"Personal Care",5417
+Madurai,"Grocery & Staples",17307
+Madurai,Combo1,5258
+Madurai,"Home Appliances",3927
+Madurai,"Home Care",2754
+Madurai,"Personal Care",1923
+Mangalore,"Grocery & Staples",8539
+Mangalore,Combo1,2146
+Mangalore,"Home Appliances",1789
+Mangalore,"Home Care",1391
+Mangalore,"Personal Care",1064
+Mysuru,"Grocery & Staples",20699
+Mysuru,Combo1,6124
+Mysuru,"Home Appliances",4408
+Mysuru,"Home Care",3420
+Mysuru,"Personal Care",2819
+Trivandrum,"Grocery & Staples",5752
+Trivandrum,Combo1,1357
+Trivandrum,"Home Appliances",1346
+Trivandrum,"Home Care",989
+Trivandrum,"Personal Care",726
+Vijayawada,"Grocery & Staples",6249
+Vijayawada,Combo1,1653
+Vijayawada,"Home Appliances",1403
+Vijayawada,"Home Care",992
+Vijayawada,"Personal Care",809
+Visakhapatnam,"Grocery & Staples",19505
+Visakhapatnam,Combo1,4605
+Visakhapatnam,"Home Appliances",4073
+Visakhapatnam,"Home Care",3088
+Visakhapatnam,"Personal Care",2645
